@@ -69,6 +69,7 @@ section.imagem {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
     background-size: cover;
     background-attachment: fixed;
+    transform: translateX(-10px); /* Alinhar horizontalmente com os versos de fundo branco */
 }
 
 section > p {
