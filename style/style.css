@@ -45,7 +45,7 @@ header a, footer a {
     font-weight: bolder;
 }
 
-header a:hover {
+a:hover {
     text-decoration: underline;
 }
 
